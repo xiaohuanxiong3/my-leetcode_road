@@ -24,7 +24,7 @@
 * -231 <= n <= 231-1
 * -104 <= xn <= 104
 
-#### 使用快速幂算法,注意临界条件
+#### [使用快速幂算法,注意临界条件](https://leetcode-cn.com/leetbook/read/programmation-efficace/9bh5eh/)
 ```
 class Solution {
     public double myPow(double x, int n) {
